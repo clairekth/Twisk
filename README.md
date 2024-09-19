@@ -1,3 +1,3 @@
-# Twisk-dalle5u-kurth2u
+# Twisk
 
-Projet twisk
+Projet twisk réalisé en 2e année de Licence Informatique à la Faculté des Sciences et Techniques de Vandoeuvres-Lès-Nancy.
